@@ -30,6 +30,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [COVID-19](https://github.com/Adamshepherd36/Projects/blob/main/AirBnB%20Project/README.md)
     - View All in [Tableau Public](https://public.tableau.com/app/profile/adam.shepherd6632/vizzes)
   - Power BI
+     - [Data Professional Survey Analysis](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Data-Professional-Survey-Analysis)
   - Excel
     - [Bike Sales Analysis Dashboard](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Bike-Sales-Analysis-Dashboard)
     - [Financial Performance and Balance Sheet Analysis](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Financial-Performance-and-Balance-Sheet-Analysis)
@@ -150,6 +151,7 @@ In this section I will list data analytics projects briefly describing the techn
 ## SQL
 
 ### SQL Data Analysis on COVID-19 Data
+
 **Code:** [`Covid Project.sql`](https://github.com/Adamshepherd36/Projects/tree/main/Covid%20Projects)
 
 **Description:** This project involved a series of SQL tasks to manage and analyze COVID-19 data. The tasks included selecting specific data for high-income locations, updating tables to handle null values, and creating views to calculate total cases, deaths, and vaccination percentages. Key queries were designed to calculate death rates, infection rates, and identify regions with the highest infection and death counts. Additionally, a common table expression (CTE) and temporary tables were used to facilitate complex data aggregation and analysis.
@@ -157,6 +159,33 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** SQL query writing, data cleaning, data manipulation, data aggregation, creating views, handling null values, working with CTEs and temporary tables.
 
 **Technology:** SQL, Microsoft SQL Server (or similar RDBMS).
+
+**Results:** The analysis revealed that Asia had the highest total death count from Covid-19, while Europe and North America also experienced significant impacts. The United Kingdom showed the highest percentage of the population infected, followed by the United States and China. The infection rates over time indicated a sharp increase during the initial years of the pandemic, with variations across different countries.
+
+
+
+## PowerBI
+
+### Data Professional Survey Analysis
+**Code:** [`Analytics_Career_Project.pbix`](https://github.com/Adamshepherd36/Projects/tree/main/Data%20Job%20Survey)
+
+**Description:** This Power BI project involved analyzing survey data from 630 data professionals. The analysis included:
+- Demographic Analysis: Examined the geographical distribution of respondents, focusing on countries such as the United States, India, the United Kingdom, and Canada. The project also analyzed the average age of survey participants.
+- Salary Analysis: Analyzed the average salary by job title, covering roles such as Data Scientist, Data Engineer, Data Architect, and others.
+- Job Satisfaction: Measured the respondents' happiness with their work-life balance and salary, providing insights into overall job satisfaction.
+- Programming Language Preferences: Explored the favorite programming languages among data professionals, with Python emerging as the most popular choice.
+- Entry Difficulty: Assessed the difficulty levels experienced by professionals when breaking into the data field.
+
+**Skills:** Data analysis, data visualization, survey analysis, dashboard creation.
+
+**Technology:** Power BI.
+
+**Results:**
+- Geographical Distribution: The United States and India had the highest number of survey respondents, indicating strong participation from these regions.
+- Salary Insights: Data Scientists were found to have the highest average salary, followed by Data Engineers and Data Architects.
+- Job Satisfaction: The average happiness with work-life balance was moderate (5.74 out of 10), while happiness with salary was slightly lower (4.27 out of 10).
+- Programming Language Preference: Python was the most favored programming language, widely used across different job titles.
+- Entry Difficulty: A significant portion of respondents (42.7%) found it neither easy nor difficult to break into the data field, while a smaller percentage found it very difficult or very easy.
 
 
 
@@ -176,6 +205,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Microsoft Excel.
 
+**Results:**
+- Married customers tend to have higher average incomes per purchase compared to single customers.
+- Customers in middle age brackets are more likely to purchase bikes compared to adolescents and older age groups.
+- Commute distance also influences bike purchasing behavior, with shorter commutes being more common among bike buyers.
+- The price distribution by zipcode highlighted areas with higher average prices, providing valuable information for regional marketing strategies.
+
+
 ### Financial Performance and Balance Sheet Analysis
 **Code:** [`Financial P&L, BS Project.xlsx`](https://github.com/Adamshepherd36/Projects/tree/main/Financial%20P%26L%2C%20BS%20Project)
 
@@ -190,7 +226,10 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Microsoft Excel.
 
-
+**Results:**
+- Financial Performance: The company showed consistent revenue growth over the analyzed period, with significant improvements in gross profit and EBITDA. Operating expenses were well-managed, contributing to overall profitability.
+- Balance Sheet Analysis: The balance sheet analysis highlighted the company's strong financial position, with substantial assets and manageable liabilities. The equity growth was steady, indicating a healthy financial foundation.
+- Forecasting: The financial forecasts provided valuable insights into expected future performance, helping to inform strategic planning and decision-making. The forecasts included projected revenue, costs, and net income for the upcoming years.
 
 
 ## Education
