@@ -29,14 +29,23 @@ This is a repository to showcase skills, share projects and track my progress in
   - Tableau
     - [COVID-19](https://github.com/Adamshepherd36/Projects/tree/main/Covid%20Projects)
   - Power BI
+  - Excel
+    - [Bike Sales Analysis Dashboard](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Bike-Sales-Analysis-Dashboard)
+    - [Financial Performance and Balance Sheet Analysis](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Financial-Performance-and-Balance-Sheet-Analysis)
   
-
 
 - [Education](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#education)  
 - [Certificates](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#certificates)
 - [Contact](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#contacts)
+
+
+
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+
+
+## Python
 
 ### Analysis of Major Bank Stocks Performance from 2006 to 2016
 **Code:** [`Financial_Project.ipynb`](https://github.com/Adamshepherd36/Projects/blob/main/Financial_Project.ipynb)
@@ -135,11 +144,14 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** The K-Nearest Neighbors classifier successfully classified the customers into target classes. The model's performance was evaluated using a confusion matrix and classification report, providing insights into accuracy, precision, recall, and F1-score. An error rate plot was used to determine the optimal number of neighbors (K), and the final model was retrained using this optimal value, resulting in improved classification performance.
 
+
+
+## SQL
+
 ### SQL Data Analysis on COVID-19 Data
 **Code:** [`Covid Project.sql`](https://github.com/Adamshepherd36/Projects/blob/main/Covid%20Project.sql)
 
 **Description:** This project involved a series of SQL tasks to manage and analyze COVID-19 data. The tasks included selecting specific data for high-income locations, updating tables to handle null values, and creating views to calculate total cases, deaths, and vaccination percentages. Key queries were designed to calculate death rates, infection rates, and identify regions with the highest infection and death counts. Additionally, a common table expression (CTE) and temporary tables were used to facilitate complex data aggregation and analysis.
-
 
 **Skills:** SQL query writing, data cleaning, data manipulation, data aggregation, creating views, handling null values, working with CTEs and temporary tables.
 
@@ -147,20 +159,50 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
+## Excel
+
+#### Sales Analysis Dashboard
+**Code:** [`Bike Sales - Project.xlsx`](https://github.com/Adamshepherd36/Projects/blob/main/Bike%20Sales%20-%20Project.xlsx)
+
+**Description:** This project involved analyzing bike sales data using Excel to provide insights into customer behavior, sales trends, and other key metrics. The primary objectives were to clean and prepare the data, perform data analysis, and create visualizations and dashboards to present the findings effectively. The analysis included:
+
+- Data Import and Preparation: Imported data from multiple sheets (bike_buyers, Working Sheet, Pivot Table, and Dashboard). Cleaned and transformed the data to ensure consistency and accuracy, handling missing values and correcting data types where necessary.
+- Data Analysis: Performed exploratory data analysis (EDA) to understand the distribution and relationships within the data. Analyzed key metrics such as customer demographics, purchase behavior, and sales performance.
+- Data Visualization: Created various charts and graphs, including bar charts, pie charts, and line graphs. Used PivotTables to summarize and aggregate data.
+- Dashboard Creation: Designed an interactive dashboard with slicers and filters to display key metrics and visualizations.
+
+**Skills:** Data cleaning, data analysis, data visualization, dashboard creation.
+
+**Technology:** Microsoft Excel.
+
+#### Financial Performance and Balance Sheet Analysis
+**Code:** [`Financial P&L, BS Project.xlsx`](https://github.com/Adamshepherd36/Projects/blob/main/Financial%20P%26L%2C%20BS%20Project.xlsx)
+
+**Description:** This project involved analyzing financial data using Excel to provide insights into the company's performance and financial position. The primary objectives were to clean and prepare the data, perform financial analysis, and create visualizations and dashboards to present the findings effectively. The analysis included:
+
+- Data Import and Preparation: Imported data from multiple sheets, including data source, balance sheets (2014-2016), P&L, fixed asset roll forward, financial liabilities, equity schedule, and cash flow. Cleaned and transformed the data to ensure consistency and accuracy.
+- Financial Analysis: Performed detailed financial analysis, including calculating key metrics such as revenue, cost of goods sold, gross profit, operating expenses, EBITDA, and net income. Analyzed the components of the balance sheet, including assets, liabilities, and equity.
+- Data Visualization: Created various charts and graphs to visualize the financial data, including line charts, bar charts, and tables. Used Excel formulas and functions to calculate variances and forecast future performance.
+- Dashboard Creation: Designed interactive dashboards to display key financial metrics and visualizations. Included slicers and filters to allow users to customize their view of the data, enhancing interactivity and usability.
+
+**Skills:** Data cleaning, financial analysis, data visualization, dashboard creation, forecasting.
+
+**Technology:** Microsoft Excel.
+
 
 
 
 ## Education
 Swansea University, UK  
-Bachelor's of Science - BSc, Accouting and Finance,
+Bachelor's of Science - BSc, Accouting and Finance, 2:1
 
 Teign School Academy, UK
 A & AS Level Modules:
 - Math, Geography, Photography, Physics and Chemistry 
 
 
+
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Advanced Google Analytics](https://analytics.google.com/analytics/academy/course/7) (Aug 2024) (LinkedIn - Google)
 - [70-461, 761: Querying Microsoft SQL Server with Transact-SQL](https://www.udemy.com/course/70-461-session-2-querying-microsoft-sql-server-2012/) (July 2024) (Phillip Burton - Udemy)
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamphtml) (July 2024) (Jose Portilla - Udemy)
