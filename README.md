@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL
     - [SQL Data Analysis on COVID-19 Data](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#SQL-Data-Analysis-on-COVID-19-Data)
   - Tableau
-    - [COVID-19](https://github.com/Adamshepherd36/Projects/blob/main/AirBnB%20Project/README.md)
+    - [COVID-19](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#COVID-19)
     - [Emergency Room Visits](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Emergency-Room-Visits)
     - [AirBnB Project](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#AirBnB-Project)
     - View All in [Tableau Public](https://public.tableau.com/app/profile/adam.shepherd6632/vizzes)
