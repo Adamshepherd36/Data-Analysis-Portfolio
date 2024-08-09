@@ -149,7 +149,7 @@ In this section I will list data analytics projects briefly describing the techn
 ## SQL
 
 ### SQL Data Analysis on COVID-19 Data
-**Code:** [`Covid Project.sql`](https://github.com/Adamshepherd36/Projects/blob/main/Covid%20Project.sql)
+**Code:** [`Covid Project.sql`](https://github.com/Adamshepherd36/Projects/tree/main/Covid%20Projects)
 
 **Description:** This project involved a series of SQL tasks to manage and analyze COVID-19 data. The tasks included selecting specific data for high-income locations, updating tables to handle null values, and creating views to calculate total cases, deaths, and vaccination percentages. Key queries were designed to calculate death rates, infection rates, and identify regions with the highest infection and death counts. Additionally, a common table expression (CTE) and temporary tables were used to facilitate complex data aggregation and analysis.
 
