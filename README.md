@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL
     - [SQL Data Analysis on COVID-19 Data](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#SQL-Data-Analysis-on-COVID-19-Data)
   - Tableau
-    - [COVID-19](https://github.com/Adamshepherd36/Projects/tree/main/Covid%20Projects)
+    - [COVID-19](https://github.com/Adamshepherd36/Projects/blob/main/AirBnB%20Project/README.md)
   - Power BI
   - Excel
     - [Bike Sales Analysis Dashboard](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Bike-Sales-Analysis-Dashboard)
