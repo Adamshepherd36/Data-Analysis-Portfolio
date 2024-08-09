@@ -14,26 +14,27 @@ My CV can be found [here](https://github.com/Adamshepherd36/Adamshepherd36.githu
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#about)
+- [Portfolio Projects](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#portfolio-projects)
   - Python
-    - [Analysis of Major Bank Stocks Performance from 2006 to 2016](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#Analysis-of-Major-Bank-Stocks-Performance-from-2006-to-2016)
-    - [Correlation Analysis of Movie Dataset](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#Correlation-Analysis-of-Movie-Dataset)
-    - [Predicting Loan Repayment for Lending Club Data](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#Predicting-Loan-Repayment-for-Lending-Club-Data)  
-    - [Sentiment Analysis on Yelp Reviews](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#Sentiment-Analysis-on-Yelp-Reviews)  
-    - [Linear Regression Analysis on E-commerce Customer Data](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#Linear-Regression-Analysis-on-E-commerce-Customer-Data)  
-    - [K-Means Clustering on College Data](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#K-Means-Clustering-on-College-Data) 
-    - [K-Nearest Neighbors Classification on Customer Data](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#K-Nearest-Neighbors-Classification-on-Customer-Data)   
+    - [Analysis of Major Bank Stocks Performance from 2006 to 2016](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Analysis-of-Major-Bank-Stocks-Performance-from-2006-to-2016)
+    - [Correlation Analysis of Movie Dataset](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Correlation-Analysis-of-Movie-Dataset)
+    - [Predicting Loan Repayment for Lending Club Data](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Predicting-Loan-Repayment-for-Lending-Club-Data)  
+    - [Sentiment Analysis on Yelp Reviews](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Sentiment-Analysis-on-Yelp-Reviews)  
+    - [Linear Regression Analysis on E-commerce Customer Data](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Linear-Regression-Analysis-on-E-commerce-Customer-Data)  
+    - [K-Means Clustering on College Data](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#K-Means-Clustering-on-College-Data) 
+    - [K-Nearest Neighbors Classification on Customer Data](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#K-Nearest-Neighbors-Classification-on-Customer-Data)   
   - SQL
-    - [SQL Data Analysis on COVID-19 Data](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#SQL-Data-Analysis-on-COVID-19-Data)
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/adam.shepherd6632/vizzes)
+    - [SQL Data Analysis on COVID-19 Data](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#SQL-Data-Analysis-on-COVID-19-Data)
+  - Tableau
+    - [COVID-19](https://github.com/Adamshepherd36/Projects/tree/main/Covid%20Projects)
   - Power BI
   
 
 
-- [Education](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#education)  
-- [Certificates](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#certificates)
-- [Contact](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#contacts)
+- [Education](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#education)  
+- [Certificates](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#certificates)
+- [Contact](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
