@@ -161,7 +161,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Excel
 
-#### Sales Analysis Dashboard
+### Bike Sales Analysis Dashboard
 **Code:** [`Bike Sales - Project.xlsx`](https://github.com/Adamshepherd36/Projects/blob/main/Bike%20Sales%20-%20Project.xlsx)
 
 **Description:** This project involved analyzing bike sales data using Excel to provide insights into customer behavior, sales trends, and other key metrics. The primary objectives were to clean and prepare the data, perform data analysis, and create visualizations and dashboards to present the findings effectively. The analysis included:
@@ -175,7 +175,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Microsoft Excel.
 
-#### Financial Performance and Balance Sheet Analysis
+### Financial Performance and Balance Sheet Analysis
 **Code:** [`Financial P&L, BS Project.xlsx`](https://github.com/Adamshepherd36/Projects/blob/main/Financial%20P%26L%2C%20BS%20Project.xlsx)
 
 **Description:** This project involved analyzing financial data using Excel to provide insights into the company's performance and financial position. The primary objectives were to clean and prepare the data, perform financial analysis, and create visualizations and dashboards to present the findings effectively. The analysis included:
