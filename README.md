@@ -28,6 +28,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - [SQL Data Analysis on COVID-19 Data](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#SQL-Data-Analysis-on-COVID-19-Data)
   - Tableau
     - [COVID-19](https://github.com/Adamshepherd36/Projects/blob/main/AirBnB%20Project/README.md)
+    - [Emergency Room Visits](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Emergency-Room-Visits)
+    - [AirBnB Project](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#AirBnB-Project)
     - View All in [Tableau Public](https://public.tableau.com/app/profile/adam.shepherd6632/vizzes)
   - Power BI
      - [Data Professional Survey Analysis](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Data-Professional-Survey-Analysis)
@@ -163,6 +165,50 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** The analysis revealed that Asia had the highest total death count from Covid-19, while Europe and North America also experienced significant impacts. The United Kingdom showed the highest percentage of the population infected, followed by the United States and China. The infection rates over time indicated a sharp increase during the initial years of the pandemic, with variations across different countries.
 
 
+
+## Tableau
+
+### COVID-19
+**Code:** [`Covid19_Project.twbx`](https://github.com/Adamshepherd36/Projects/tree/main/Covid%20Projects)
+
+**Description:** The primary aim of this project is to provide a comprehensive visual analysis of the Covid-19 pandemic's global impact. This involves tracking and comparing total cases and deaths across continents, as well as analyzing the percentage of the population infected in various countries. The project seeks to highlight the regions most affected by the pandemic and to provide insights into the progression of the infection rates over time.
+
+**Skills:** Data visualization, data analysis, dashboard creation, time series analysis, geographic analysis.
+
+**Technology:** Tableau.
+
+**Results:**
+- Results: The analysis revealed that Asia had the highest total death count from Covid-19, while Europe and North America also experienced significant impacts. The United Kingdom showed the highest percentage of the population infected, followed by the United States and China. The infection rates over time indicated a sharp increase during the initial years of the pandemic, with variations across different countries.
+
+### Emergency Room Visits
+**Code:** [`Emergency Room Visits Dashboard.twbx`](https://github.com/Adamshepherd36/Projects/tree/main/Emergency%20Room%20Visits)
+
+**Description:** The primary aim of this project is to provide a comprehensive analysis of emergency room visits over a specific period, using data-driven insights to understand patient demographics, average wait times, satisfaction levels, and department referrals. The project seeks to identify patterns and trends in ER visits, which can inform hospital management and healthcare providers about the areas that require improvement or further investigation. By visualizing these insights, the project aims to enhance the understanding of ER operations and patient care dynamics.
+
+**Skills:** Data analysis, data visualization, healthcare analytics, dashboard creation.
+
+**Technology:** Tableau.
+
+**Results:**
+- Patient Demographics: The ER visits were fairly balanced between male (51.05%) and female (48.69%) patients, with a very small percentage (0.26%) categorized as non-binary or not disclosed. The most frequent age group visiting the ER was 19-65 years, followed by the 0-18 years group.
+- Patient Race Distribution: The majority of patients identified as White (2,571), followed by African American (1,951) and individuals of two or more races (1,557). The analysis highlights the racial diversity of the patient population.
+- Average Patient Wait Time: The overall average wait time was 35.3 minutes. The heatmap showed variations in wait times throughout the week, with peak wait times observed on Friday between 2 am and 3 am (38.11 minutes).
+- Patient Satisfaction: The average patient satisfaction score was 4.99 out of 10, suggesting moderate satisfaction levels, with room for improvement in patient experience.
+- Department Referrals: General Practice received the highest number of referrals (1,840), followed by Orthopedics (995). This indicates the most common areas of follow-up care required after ER visits.
+
+### AirBnB Project
+**Code:** [`Airbnb Full Project.twbx`](https://github.com/Adamshepherd36/Projects/tree/main/AirBnB%20Project)
+
+**Description:** The primary aim of this project is to provide insights into Airbnb rental pricing and revenue trends by examining various factors such as the number of bedrooms, location (zipcode), and time period. The project involves visualizing the average price per bedroom, price distribution across different zipcodes, and revenue trends over a year. This analysis helps in understanding the pricing strategy and identifying high-revenue areas and periods.
+
+**Skills:** Data visualization, data analysis, geographic analysis, time series analysis, dashboard creation.
+
+**Technology:** Tableau.
+
+**Results:** 
+- Results: The analysis revealed that properties with more bedrooms tend to have higher average prices, with six-bedroom properties having the highest average price. The price distribution across zipcodes highlighted specific areas with higher rental prices, such as the 98109 and 98121 zipcodes. The revenue trend analysis showed an overall increase in revenue over the year, with noticeable peaks during certain periods, indicating high-demand times for Airbnb rentals.
+
+    
 
 ## PowerBI
 
