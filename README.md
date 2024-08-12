@@ -26,6 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [K-Nearest Neighbors Classification on Customer Data](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#K-Nearest-Neighbors-Classification-on-Customer-Data)   
   - SQL
     - [SQL Data Analysis on COVID-19 Data](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#SQL-Data-Analysis-on-COVID-19-Data)
+    - [Health Analytics Dashboard for OCD Patients](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Health-Analytics-Dashboard-for-OCD-Patients)
   - Tableau
     - [COVID-19](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#COVID-19)
     - [Emergency Room Visits](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Emergency-Room-Visits)
@@ -33,9 +34,11 @@ This is a repository to showcase skills, share projects and track my progress in
     - View All in [Tableau Public](https://public.tableau.com/app/profile/adam.shepherd6632/vizzes)
   - Power BI
      - [Data Professional Survey Analysis](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Data-Professional-Survey-Analysis)
+     - [Health Analytics Dashboard for OCD Patients](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Health-Analytics-Dashboard-for-OCD-Patients)
   - Excel
     - [Bike Sales Analysis Dashboard](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Bike-Sales-Analysis-Dashboard)
     - [Financial Performance and Balance Sheet Analysis](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Financial-Performance-and-Balance-Sheet-Analysis)
+    - - [Health Analytics Dashboard for OCD Patients](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Health-Analytics-Dashboard-for-OCD-Patients)
   
 
 - [Education](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#education)  
@@ -164,7 +167,22 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** The analysis revealed that Asia had the highest total death count from Covid-19, while Europe and North America also experienced significant impacts. The United Kingdom showed the highest percentage of the population infected, followed by the United States and China. The infection rates over time indicated a sharp increase during the initial years of the pandemic, with variations across different countries.
 
+### Health Analytics Dashboard for OCD Patients
+**Code:** [`Patients with OCD.sql`](https://github.com/Adamshepherd36/Projects/tree/main/Health%20Analytics%20Dashboard%20for%20OCD%20Patients)
 
+**Description:** This project involves the analysis of OCD (Obsessive-Compulsive Disorder) patient data using health analytics dashboards to uncover insights into demographic distributions, common obsession and compulsion types, and diagnosis trends over time. The analysis examines factors such as gender, ethnicity, and the severity of OCD symptoms, utilizing data visualization to highlight key patterns and correlations. The resulting dashboards provide healthcare professionals and researchers with a clear overview of OCD patient characteristics, enabling informed, data-driven decision-making in mental health care.
+
+**Skills:** Data Analysis, Data Visualization, Dashboard Design, Statistical Analysis, Python Programming
+SQL, Data Cleaning and Preparation, Health Data Interpretation
+
+**Technology:** SQL Databases, Excel
+
+**Results:** The dashboard successfully presents key insights into OCD patient demographics and behaviors:
+
+- Gender distribution is nearly equal, with 49.8% female and 50.2% male patients.
+- The most common compulsions are Washing (321 patients), Counting (316 patients), and Checking (292 patients).
+- The most prevalent obsessions are Harm-related (333 patients), Contamination (306 patients), and Religious (303 patients).
+- Diagnosis rates have fluctuated over time, with noticeable peaks and drops from 2014 to 2022.
 
 ## Tableau
 
