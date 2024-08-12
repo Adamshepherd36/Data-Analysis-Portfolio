@@ -38,7 +38,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Excel
     - [Bike Sales Analysis Dashboard](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Bike-Sales-Analysis-Dashboard)
     - [Financial Performance and Balance Sheet Analysis](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Financial-Performance-and-Balance-Sheet-Analysis)
-    - - [Health Analytics Dashboard for OCD Patients](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Health-Analytics-Dashboard-for-OCD-Patients)
+    - [Health Analytics Dashboard for OCD Patients](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#Health-Analytics-Dashboard-for-OCD-Patients)
   
 
 - [Education](https://github.com/Adamshepherd36/Data-Analysis-Portfolio#education)  
